@@ -11,8 +11,14 @@ Selected Projects and Outcomes
 
 ## Vehicle Loan Default Prediction
 
-[Link toVehicle Loan Default Prediction Project](https://github.com/tripidhoble/LTFS-Data-Science-FinHack-ML-Hackathon)
+[Link to Vehicle Loan Default Prediction Project](https://github.com/tripidhoble/LTFS-Data-Science-FinHack-ML-Hackathon)
 
 - ‘DataScience FinHack’ arranged by L&T Financial Services & Analytics Vidhya to predict loan default. 
 - Feature Engineering, EDA, Feature Selection, Data resampling, Model Selection are done to achieve good score for confusion metrics. 
+
+## House-Prises-Predictions)
+
+[Link to House-Prises-Predictions) Project](https://github.com/tripidhoble/House-Prises-Predictions)
+
+- Trained a stacking regressor model with the individual regressor as GradientBoosting, XGBoosting, Lasso Regression, Random Forest Regressor and meta-regressor as Linear Regression model. 
 ___
