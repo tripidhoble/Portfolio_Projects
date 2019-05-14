@@ -1,13 +1,12 @@
 Selected Projects and Outcomes
 ==============================
-## Subreddit Recommender System for Reddit users
+## SBank_Marketing_Campaign
 
-[Link to Subreddit Recommendor Project](https://github.com/bhattbhavesh91/Subreddit_Recommendation_SVD)
+[Link to Bank_Marketing_Campaign Project](https://github.com/tripidhoble/Greyatom-Hackathon1)
 
-The goal of the project is to to predict possibly interesting subreddits to a user based on their comment history.
-The hypothesis of the recommender model is, given an ordered sequence of user subreddit interactions, patterns will emerge that favour the discovery of paticular new subreddits given that historical user interaction sequence.
-
-- Implemented the recommendor system using the SVD algorithm. 
-- Verified the accuracy of the model by removing a subreddit from the user history and checking if the recommdation system did output the removed subreddit as a recommendation.
+- The classification goal is to predict if the client will subscribe a term deposit. 
+- Feature Visualization using matplotlib, Feature Engineering – create new feature by data binning and addition, etc. 
+- Handle the imbalance dataset by applying different methods of resampling- Balance weight worked well. 
+- Use classification models Logistic Regression, Decision Tree, Random Forest. 
 
 ___
