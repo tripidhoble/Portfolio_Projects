@@ -18,7 +18,7 @@ Selected Projects and Outcomes
 
 ## House-Prises-Predictions)
 
-[Link to House-Prises-Predictions) Project](https://github.com/tripidhoble/House-Prises-Predictions)
+[Link to House-Prises-Predictions Project](https://github.com/tripidhoble/House-Prises-Predictions)
 
 - Trained a stacking regressor model with the individual regressor as GradientBoosting, XGBoosting, Lasso Regression, Random Forest Regressor and meta-regressor as Linear Regression model. 
 ___
