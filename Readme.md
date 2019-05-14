@@ -1,6 +1,6 @@
 Selected Projects and Outcomes
 ==============================
-## SBank_Marketing_Campaign
+## Bank_Marketing_Campaign
 
 [Link to Bank_Marketing_Campaign Project](https://github.com/tripidhoble/Greyatom-Hackathon1)
 
